@@ -1,5 +1,8 @@
 # WWDC18Features
+
 What's new in WWDC18
+
+Original article was published at https://developer.apple.com/videos/wwdc2018/
 
 [![WWDC 2018 Keynote](resources/689BF0C2EF82D451383DF824068AE683.jpg)](https://developer.apple.com/videos/play/wwdc2018/101/)
 
