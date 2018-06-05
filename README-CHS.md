@@ -1,4 +1,4 @@
-# WWDC18Features
+# WWDC18Sessions
 
 What's new in WWDC18
 
